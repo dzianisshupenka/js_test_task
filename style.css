@@ -1,0 +1,19 @@
+.container {
+    width: 90vw;
+    height: 90vh;
+    margin: 30px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(213, 245, 255);
+}
+
+#params {
+    width: 150px;
+    margin: 10px;
+}
+
+button {
+    width: 150px;
+    margin: 10px;
+}
